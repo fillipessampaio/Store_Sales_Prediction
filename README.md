@@ -1,4 +1,4 @@
-<h1 align="center"> # STORE SALES PREDICTION </h1> 
+<h1 align="center"> STORE SALES PREDICTION </h1> 
 
 <img align="center"  height="450" width="1000" src="https://github.com/fillipessampaio/Store_Sales_Prediction/blob/main/img/image_sales_prediction.png?raw=true" >
 
